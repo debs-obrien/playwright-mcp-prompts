@@ -1,6 +1,6 @@
 ---
 description: Website exploration mode using Playwright MCP tools
-tools: ['changes', 'codebase', 'editFiles', 'fetch', 'findTestFiles', 'openSimpleBrowser', 'problems', 'runCommands', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'playwright']
+tools: ['runCommands', 'runTasks', 'edit', 'search', 'todos', 'playwright']
 model: Claude Sonnet 4
 ---
 
