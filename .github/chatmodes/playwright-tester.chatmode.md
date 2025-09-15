@@ -1,6 +1,6 @@
 ---
 description: Testing mode for Playwright tests
-tools: ['changes', 'codebase', 'editFiles', 'fetch', 'findTestFiles', 'openSimpleBrowser', 'problems', 'runCommands', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'playwright']
+tools: ['runCommands', 'runTasks', 'edit', 'search', 'problems', 'changes', 'testFailure', 'todos', 'runTests', 'playwright']
 model: Claude Sonnet 4
 ---
 
